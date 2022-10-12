@@ -1,0 +1,9 @@
+Js is very popular...  
+Finally i decided to take a look at js....
+
+https://ko.javascript.info/
+
+https://github.com/getify/You-Dont-Know-JS
+
+i don't fully agree with author...
+(it seems too much defensive to weak points of js )
